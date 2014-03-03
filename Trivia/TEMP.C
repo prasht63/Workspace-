@@ -1,0 +1,26 @@
+#include<stdio.h>
+void main()
+{
+int a,b,c,i,j;
+
+printf("till how much u want series");
+scanf("%d",&a);
+for(i=0;i<=a;i++)
+{
+for(j=0;j<i;j++)
+{
+printf("\t%d",j);
+}
+printf("\n");
+}
+for(i=a;i>=0;--i)
+{
+
+for(j=0;j<i;j++)
+{
+printf("\t%d",j);
+}
+printf("\n");
+}
+getch() ;
+}

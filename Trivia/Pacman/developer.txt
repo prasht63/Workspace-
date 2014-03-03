@@ -1,0 +1,18 @@
+Developed by: Fahad Mohammad Shaon
+http://fahadshaon.wordpress.com
+
+For those who want to copy source, take it call it urs.
+but u know if u take everything from me then u r nothing.
+u have brain use it in good purpose.
+
+For those who want to develop this project, i am very happy and u r
+someone i am looking for. still there is  lots of bugs in my project.
+and i am not that much interested to solved this bugs. and in developers
+point of view there are lots of thing could be developed.
+
+For those who want to develop this project but don’t have sufficient knowledge 
+of C or not understanding the code, don’t hesitate contact with me. may help u out.
+
+To compile this u have to keep the Pacman and BGI folder in TC\BIN folder
+
+Last update : 1/20/2008

@@ -1,0 +1,2 @@
+BGIOBJ.EXE
+pause
